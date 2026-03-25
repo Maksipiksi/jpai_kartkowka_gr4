@@ -1,0 +1,16 @@
+    1  git clone https://github.com/Maksipiksi/jpai_kartkowka_gr4.git
+    2  ls
+    3  cd jpai_kartkowka_gr4
+    4  ls
+    5  cat README.md
+    6  cat app.js
+    7  nano app.js
+    8  ls
+    9  cat docker
+   10  cat package.json
+   11  docker build -t apka
+   12  docker build -t apka .
+   13  ls
+   14  cat docker
+   15  nano docker
+   16  history | tee docker.log
